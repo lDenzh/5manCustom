@@ -1,4 +1,4 @@
-# 5manCustom
+# LoL_SpinTheWheel
 
 ## Requirements: 
 
